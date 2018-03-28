@@ -1,0 +1,6 @@
+#换行为两个空格
+kafka:
+  bootstrap-servers: xizh:9092
+  topic: 
+    basictopic: basictopic
+    advancedtopic: advancedtopic
